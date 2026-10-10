@@ -4,8 +4,8 @@
     // =========================================================
     // CONFIGURATION
     // =========================================================
-    const PASTEFY_PASTE_ID = "2unvISpu";
-    const PASTEFY_API_KEY = "E27hWbP6W35CxxCOaw5sH4qjBHm3xyBOSboXtkQLABXOmGuS6V0z0zaxIM8X"; //
+    const PASTEFY_PASTE_ID = "PASTEFY_PASTE_ID";
+    const PASTEFY_API_KEY = "PASTEFY_API_KEY"; //
     const API_BASE = "https://pastefy.app/api/v2/paste/";
 
     const ITERATIONS = 310000;
